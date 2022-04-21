@@ -10,7 +10,7 @@
     <?php
     // This is a comment
     // echo "X equals $x";
-    $x += 10; // Increment $x by 1-
+    $x += 10; // Increment $x by 10
     echo $x;
     /* This is a section
     of multimedia comments
