@@ -8,7 +8,7 @@
 </head>
 <body>
     <?php
-    $x = 1// This is a comment
+    // This is a comment
     // echo "X equals $x";
     $x += 10; // Increment $x by 10
     echo $x;
