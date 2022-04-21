@@ -8,7 +8,7 @@
 </head>
 <body>
     <?php
-    $username = "Siti Syahirah"
+    $username = "Siti Syahirah";
     echo $username;
     echo "<br />";
     $current_user = $username;
